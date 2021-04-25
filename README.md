@@ -1,2 +1,2 @@
 # Class-2CLT
-Structs and claases
+Structs and classes
